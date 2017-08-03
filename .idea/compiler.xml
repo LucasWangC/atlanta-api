@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="account_main" target="1.8" />
+      <module name="account_test" target="1.8" />
+      <module name="atlanta-api_main" target="1.8" />
+      <module name="atlanta-api_test" target="1.8" />
+      <module name="config_main" target="1.8" />
+      <module name="config_test" target="1.8" />
+      <module name="eureka_main" target="1.8" />
+      <module name="eureka_test" target="1.8" />
+      <module name="logs_main" target="1.8" />
+      <module name="logs_test" target="1.8" />
+      <module name="manager_main" target="1.8" />
+      <module name="manager_test" target="1.8" />
+      <module name="user_main" target="1.8" />
+      <module name="user_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+      <module name="zuul_main" target="1.8" />
+      <module name="zuul_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

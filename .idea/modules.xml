@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account.iml" filepath="$PROJECT_DIR$/.idea/modules/account.iml" group="account" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account/account_main.iml" filepath="$PROJECT_DIR$/.idea/modules/account/account_main.iml" group="account" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account/account_test.iml" filepath="$PROJECT_DIR$/.idea/modules/account/account_test.iml" group="account" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/atlanta-api.iml" filepath="$PROJECT_DIR$/.idea/modules/atlanta-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/atlanta-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/atlanta-api_main.iml" group="atlanta-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/atlanta-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/atlanta-api_test.iml" group="atlanta-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config.iml" filepath="$PROJECT_DIR$/.idea/modules/config.iml" group="config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config/config_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config/config_main.iml" group="config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config/config_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config/config_test.iml" group="config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka.iml" group="eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka/eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka/eureka_main.iml" group="eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka/eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka/eureka_test.iml" group="eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logs.iml" filepath="$PROJECT_DIR$/.idea/modules/logs.iml" group="logs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logs/logs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/logs/logs_main.iml" group="logs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logs/logs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/logs/logs_test.iml" group="logs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manager.iml" filepath="$PROJECT_DIR$/.idea/modules/manager.iml" group="manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manager/manager_main.iml" filepath="$PROJECT_DIR$/.idea/modules/manager/manager_main.iml" group="manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manager/manager_test.iml" filepath="$PROJECT_DIR$/.idea/modules/manager/manager_test.iml" group="manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user.iml" filepath="$PROJECT_DIR$/.idea/modules/user.iml" group="user" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user/user_main.iml" filepath="$PROJECT_DIR$/.idea/modules/user/user_main.iml" group="user" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user/user_test.iml" filepath="$PROJECT_DIR$/.idea/modules/user/user_test.iml" group="user" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul.iml" group="zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul/zuul_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul/zuul_main.iml" group="zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul/zuul_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul/zuul_test.iml" group="zuul" />
+    </modules>
+  </component>
+</project>

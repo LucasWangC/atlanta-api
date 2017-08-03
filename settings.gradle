@@ -1,0 +1,10 @@
+rootProject.name = 'atlanta-api'
+include 'user'
+include 'account'
+include 'config'
+include 'zuul'
+include 'eureka'
+include 'manager'
+include 'logs'
+include 'util'
+
